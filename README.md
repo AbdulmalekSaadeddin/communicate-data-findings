@@ -6,17 +6,25 @@ This project has two main parts (Exploratory and Explanatory), In the explorator
 
 In the explanatory part, I will take the main findings from the exploratory part and communicate my results in short presentation that illustrates interesting properties, trends, and relationships that I discovered in Ford GoBike Data for (December 2019). The explanatory part of the project should make heavy use of the first part of the project. 
 
+
+
 **Choosing a data set:** 
 
 I choose Ford GoBike bike data (December 2019) for my project. It’s about bicycle sharing system in the San Francisco Bay Area, the bicycles are available 24 hours a day, seven days a week with data about (duration, bike id, start time, end time, rental access method, user type). 
+
+
 
 **Data Exploration findings:** 
 
 Starting with univariate plots of single variables and building up to plots of multiple variables relationships. I found that there is relationship between four variables in my data set (duration sec, start time hour, start time weekday, user type). 
 
+
+
 **Key insights:** 
 
 The center of attention was the influence of user type, start time hour, start time weekday and duration in seconds. I began by exploring the duration in seconds, then start time hour, then I started to plot two variables then three together. I used different plots and add more variables in each step in order to get the key insights, and make sure it is clear and well-polished and the points can be easily understood by the reader. 
+
+
 
 **Summary:** 
 
